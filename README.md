@@ -1,4 +1,5 @@
-# kn-extraction-technical-texts
+# Knowledge-graph extraction for technical French texts
+
 A new method for extracting knowledge graphs for highly specialized and technical French texts.
 
 This file contains two notebook files, one for extracting the knowledge graph and the other for setting up the unsupervised Named Entity Recognition method.
